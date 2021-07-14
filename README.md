@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @WarmisharrowPy
+- 👀 I’m interested in Python
+- 🌱 I’m currently learning Ethical Hacking
+- 📫 Reach me in Discord WarmishArrow#4544 
+- Even a fool can write code that a computer can understand. Good programmers write code that humans can understand.
