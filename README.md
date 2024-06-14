@@ -1,8 +1,6 @@
 # Warmisharrow
 🔭 I’m currently working on Bots and AI<br>👀 I’m interested in Python<br>🌱 I’m currently learning Ethical Hacking<br>📫 Reach me in Discord WarmishArrow#4544<br>⚡ Fun fact Even a fool can write code that a computer can understand. Good programmers write code that humans can understand.<br>😄 Pronouns: His/Him/He
 
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/NOYF3f82b_gAAAAC/programmer.gif">
-
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/WarmishArrow#4544) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/16429873) 
 
